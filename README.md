@@ -8,6 +8,7 @@
 🥇 **My Badges** 🥇
 <br/><br/>
 <a href="https://www.credly.com/badges/97ff88b8-da9b-4780-9287-d5017a832b5d/public_url"><img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" title="Python Essentials 1" height="150" width="150"/></a>
+<a href="https://www.credly.com/badges/6a6c99ce-c617-4660-b6f2-df2924555afe/public_url"><img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" title="Python Essentials 2" height="150" width="150"/></a>
 <a href="https://www.credly.com/badges/d99ab412-a3cd-4e7c-af1e-77c1f79d4d83/public_url"><img src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" title="Introduction to Data Science" height="150" width="150"/></a>
 <br/><br/>
 <a href="https://www.credly.com/badges/6b39b309-0595-4219-8be7-3c1757d876cf/public_url"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" title="Introduction to Cybersecurity" height="150" width="150"/></a>
